@@ -1,0 +1,3 @@
+This is a bespoke prospect-facing landing page built for Snap Compliance, intended to be handed to Alex Siles Loaiza or Gabriela Herra Arroyo at eMerge Americas 2026 (booth SS95). It uses Snap Compliance brand tokens (deep blue primary, emerald accent, Inter type system, country-flag and framework-chip motifs) so the page reads as native to their site, carries the fit-analysis pitch body reflowed for web, cites the VigilOre case study and the ICM paper, includes the mandatory NLP Logix, KPMG UK, and Ethics Engine disclosures, and closes on a 30-minute Calendly with Matt Creamer (CRO). Mobile responsive at 375px. Eduba branding sits in the footer only.
+
+Intended URL path: /for/snap-compliance
